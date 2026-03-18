@@ -9,7 +9,7 @@
 ## 🚀 Overview
 This project analyzes Netflix content using a complete data pipeline—from raw data cleaning to interactive dashboard visualization.
 
-It demonstrates how real-world data is processed, stored, analyzed, and visualized using industry tools.
+It demonstrates how data is processed, stored, analyzed, and visualized using real-world tools.
 
 ---
 
@@ -26,8 +26,103 @@ It demonstrates how real-world data is processed, stored, analyzed, and visualiz
 
 ## 🔄 Workflow
 
-```mermaid
-flowchart LR
-A[Excel Data Cleaning] --> B[MySQL Database]
-B --> C[Python Analysis]
-C --> D[Power BI Dashboard]
+1. Excel Data Cleaning  
+2. MySQL Database Storage  
+3. Python Data Analysis  
+4. Power BI Dashboard Visualization  
+
+---
+
+## 📊 Key Insights
+
+- 📌 Movies dominate Netflix content compared to TV Shows  
+- 🌍 United States produces the highest number of titles  
+- 📈 Significant growth in content after 2015  
+- 🎭 Drama and International Movies are the most popular genres  
+- 📅 Most content was added in recent years  
+
+---
+
+## 📁 Project Structure
+netflix-content-analysis/
+│
+├── data/
+│   └── netflix_cleaned.csv        # Cleaned dataset from Excel
+│
+├── sql/
+│   └── queries.sql               # SQL queries for analysis
+│
+├── python/
+│   └── analysis.py              # Python script for analysis & visualization
+│
+├── output/
+│   └── netflix_final.csv        # Processed dataset from Python
+│
+├── powerbi/
+│   └── dashboard.pbix          # Power BI dashboard
+│
+├── images/
+│   └── dashboard.png           # Dashboard screenshot
+│
+├── requirements.txt            # Python dependencies
+│
+└── README.md                   # Project documentation
+
+---
+
+## 📸 Dashboard Preview
+
+<p align="center">
+    <img src="images/Screenshot 2026-03-18 223533.png" width="800"/>
+</p>
+
+<p align="center">
+    <img src="images/Screenshot 2026-03-18 223632.png" width="800"/>
+</p>
+
+<p align="center">
+    <img src="images/Screenshot 2026-03-18 223702.png" width="800"/>
+</p>
+
+<p align="center">
+    <img src="images/Screenshot 2026-03-18 223727.png" width="800"/>
+</p>
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:git clone https://github.com/Kunal0707/netflix-content-analysis.git
+2. Install dependencies:pip install -r requirements.txt
+3. Run the Python script:python python/analysis.py
+
+---
+
+## 🧠 Learnings
+
+- SQL database handling  
+- Python data analysis using Pandas  
+- Data visualization using Matplotlib  
+- Dashboard creation using Power BI  
+- End-to-end project development  
+
+---
+
+## 🔮 Future Improvements
+
+- Add recommendation system  
+- Use machine learning models  
+- Real-time data integration  
+- Cloud deployment  
+
+---
+
+## 👨‍💻 Author
+
+**Kunal Ray**
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!

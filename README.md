@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&cacheSeconds=30"/>
   <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&cacheSeconds=30"/>
-  <img src="https://img.shields.io/github/repo-size/Kunal0707/netflix-content-analysis?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/repo-size/Kunal0707/netflix-content-analysis?style=for-the-badge&color=blue&cacheSeconds=60"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
 </p>
 

@@ -128,13 +128,13 @@ flowchart LR
 <p align="center"> <img src="images/dashboard.png" width="800"/> </p>
 
 ---
+## 📊 Key Insights
 
-📊 Key Insights
-📌 Movies dominate Netflix content compared to TV Shows
-🌍 United States produces the highest number of titles
-📈 Content growth increased significantly after 2015
-🎭 Drama & International Movies are most popular
-📅 Majority of content added in recent years
+- 📌 Movies dominate Netflix content compared to TV Shows  
+- 🌍 United States produces the highest number of titles  
+- 📈 Content growth increased significantly after 2015  
+- 🎭 Drama & International Movies are most popular  
+- 📅 Majority of content added in recent years  
 
 ---
 
@@ -159,29 +159,35 @@ netflix-content-analysis/
 ```
 
 ---
+## ⚙️ Installation & Setup
 
-⚙️ Installation & Setup
+```bash
 git clone https://github.com/Kunal0707/netflix-content-analysis.git
 cd netflix-content-analysis
 pip install -r requirements.txt
 python python/analysis.py
+```
 
 ---
 
-🧠 Learnings
-SQL query optimization
-Data cleaning & transformation
-Python data analysis workflows
-Visualization best practices
-Dashboard storytelling
+```markdown
+## 🧠 Learnings
+
+- SQL query optimization  
+- Data cleaning & transformation  
+- Python data analysis workflows  
+- Visualization best practices  
+- Dashboard storytelling
+```
 
 ---
 
-🔮 Future Improvements
-🤖 Recommendation system
-📡 Real-time data integration
-☁️ Cloud deployment
-🧠 Machine learning models
+## 🔮 Future Improvements
+
+- 🤖 Recommendation system  
+- 📡 Real-time data integration  
+- ☁️ Cloud deployment  
+- 🧠 Machine learning models  
 
 ---
 👨‍💻 Author

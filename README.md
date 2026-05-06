@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&cacheSeconds=30"/>
   <img src="https://img.shields.io/github/repo-size/Kunal0707/netflix-content-analysis?style=for-the-badge&label=Repo%20Size&color=blue&cacheSeconds=60"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-  🕒 Last Updated: <!--LAST_UPDATED-->
 </p>
 </p>
+🕒 Last Updated: <!--LAST_UPDATED-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunal0707&label=Profile%20Views&style=for-the-badge"/>

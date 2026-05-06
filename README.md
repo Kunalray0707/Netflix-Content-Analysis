@@ -72,7 +72,7 @@ flowchart LR
 
 ---
 
-##📥 Dashboard Access
+📥 Dashboard Access
 ---
 👉 Download Interactive Dashboard (.pbix):
 [Netflix DASHBOARD.pbix](https://github.com/Kunalray0707/Netflix-Content-Analysis/blob/main/Netflix%20DASHBOARD.pbix)
@@ -93,7 +93,7 @@ flowchart LR
 
 ---
 
-##📁 Project Structure
+📁 Project Structure
 ---
 ```
 

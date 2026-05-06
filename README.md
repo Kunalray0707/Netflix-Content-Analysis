@@ -192,6 +192,9 @@ Kunal Ray
 
 ⭐ Support This Project
 
-If you found this project useful, consider giving it a ⭐!
+If you found this project useful, consider giving it a 
+<p align="center"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> 
+</p>
 
-<p align="center"> <a href="https://github.com/Kunal0707/netflix-content-analysis"> <img src="https://img.shields.io/github/stars/Kunal0707/netflix-content-analysis?style=for-the-badge&logo=github&color=yellow"/> </a> </p> <p align="center"> 🚀 Your support motivates further development! </p> ```
+ 🚀 Your support motivates further development! </p> ```

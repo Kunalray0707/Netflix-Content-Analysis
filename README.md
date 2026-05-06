@@ -196,5 +196,3 @@ If you found this project useful, consider giving it a
 <p align="center"> 
   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> 
 </p>
-
- 🚀 Your support motivates further development! </p> ```
